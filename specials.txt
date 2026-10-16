@@ -3,4 +3,5 @@
   <li>Al Pastor Taco - $3</li>
   <li>Fish Taco - $4</li>
     <li>Birria Taco - $5</li>
+    <li>Veggie Taco - $3</li>
 </ul>
